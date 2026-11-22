@@ -1,0 +1,20 @@
+{
+  "text.quakerun.title": "Stop playing and run!",
+  "text.quakerun.arrival_in": "Estimated shaking reaches your location in %s seconds",
+  "text.quakerun.arrived": "The seismic waves have arrived",
+  "text.quakerun.local_intensity": "%s  Estimated intensity %s",
+  "text.quakerun.magnitude": "Epicenter: %s  M%s",
+  "text.quakerun.epicenter_coordinates": "Lat %s°, Lon %s°",
+  "text.quakerun.epicenter_with_place": "%s (Lat %s°, Lon %s°)",
+  "text.quakerun.origin_time": "Earthquake time: %s (UTC+08:00)",
+  "text.quakerun.source_notice": "Source: WOLFX OPEN API · Follow official updates",
+  "text.quakerun.unknown_city": "Unknown city",
+  "text.quakerun.connected": "Connected",
+  "text.quakerun.disconnected": "Disconnected",
+  "text.quakerun.available": "Available",
+  "text.quakerun.unavailable": "Unavailable",
+  "text.quakerun.none": "None",
+  "message.quakerun.server_affected": "Earthquake warning: The server is within the affected area!",
+  "message.quakerun.status": "WOLFX: %s; public internet: %s; server location: %s; last valid report: %s; GeoIP success/failure: %s/%s",
+  "message.quakerun.service_unavailable": "The earthquake warning service has not started."
+}

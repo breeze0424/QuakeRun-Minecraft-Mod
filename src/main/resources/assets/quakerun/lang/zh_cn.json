@@ -1,0 +1,20 @@
+{
+  "text.quakerun.title": "别玩了，快跑吧！",
+  "text.quakerun.arrival_in": "预计地震波将于 %s 秒后到达你所在的位置",
+  "text.quakerun.arrived": "地震波已经到达",
+  "text.quakerun.local_intensity": "%s  预估烈度 %s",
+  "text.quakerun.magnitude": "震中：%s  M%s",
+  "text.quakerun.epicenter_coordinates": "纬度 %s°，经度 %s°",
+  "text.quakerun.epicenter_with_place": "%s（纬度 %s°，经度 %s°）",
+  "text.quakerun.origin_time": "地震时间：%s（UTC+08:00）",
+  "text.quakerun.source_notice": "数据源：WOLFX OPEN API · 具体情况以官方机构通报为准",
+  "text.quakerun.unknown_city": "未知城市",
+  "text.quakerun.connected": "已连接",
+  "text.quakerun.disconnected": "未连接",
+  "text.quakerun.available": "可用",
+  "text.quakerun.unavailable": "不可用",
+  "text.quakerun.none": "无",
+  "message.quakerun.server_affected": "地震预警：服务器正处在地震影响范围中！",
+  "message.quakerun.status": "WOLFX: %s；公网出口: %s；服务器定位: %s；最近有效报文: %s；GeoIP 成功/失败: %s/%s",
+  "message.quakerun.service_unavailable": "地震预警服务尚未启动。"
+}
